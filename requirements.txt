@@ -78,6 +78,7 @@ nest-asyncio==1.6.0
 notebook==7.4.5
 notebook_shim==0.2.4
 numpy==2.2.6
+nvidia-nccl-cu12==2.28.3
 orjson==3.11.3
 overrides==7.7.0
 packaging==25.0
@@ -146,3 +147,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 websockets==15.0.1
 widgetsnbextension==4.0.14
+xgboost==3.0.5
